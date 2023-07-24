@@ -1,0 +1,15 @@
+global-styling:
+  version: 1.x
+  js:
+    js/analytics.js: {}
+    js/jquery-3.6.0.min.js: {}
+    js/jquery-scrollToTop.js: {}
+    js/jquery.easing.min.js: {}
+    js/jquery.skitter.min.js: {}
+  css: 
+    theme:
+      css/easing.css: {}
+      css/scrollToTop.css: {}
+      css/skitter.styles.css: {}
+      css/stylesheet.css: {}
+      css/stylesheetnew.css: {}

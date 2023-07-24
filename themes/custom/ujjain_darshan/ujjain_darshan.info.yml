@@ -1,0 +1,19 @@
+name: Ujjain Darshan
+type: theme
+description: Ujjain Drashan Site
+package: Custom Theme
+core_version_requirement: ^8 || ^9 || ^10
+base theme: false
+libraries:
+- ujjain_darshan/global-styling
+regions:
+  branding: Branding
+  navigation: Main navigation
+  search: Search
+  featured: Featured
+  content: Content
+  right_sidebar: Right sidebar
+  footer_first: Footer First
+  footer_second: Footer Second
+  footer_third: Footer Third
+  footer_bottom: Footer Bottom  
